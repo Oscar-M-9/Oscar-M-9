@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Oscar</h1>
+<h1 align="center">Hi 👋, I'm Oscar Chavesta</h1>
 <h3 align="center">Developer</h3>
-
-
-
-<h1 class="animate__animated animate__fadeInDown">Oscar Chavesta Caicedo</h1>
 
 
 <p class="animate__animated animate__fadeInUp">
