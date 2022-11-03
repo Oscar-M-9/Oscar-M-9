@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center">Developer</h3>
 
 
-<p class="animate__animated animate__fadeInUp">
- ✔ Desarrollador de aplicaciones de Escritorio echo en Java con gestor de base de datos MySql y SqlServer <br>✔ Tambien desarrollo paginas web basicas con html, css y Javascript <br>✔ Actualmente me encuentro aprendiendo desarrollo de aplicaiones moviles en Flutter
+<p align="center">
+ ✔ Desarrollador de aplicaciones de Escritorio en Java con gestor de base de datos MySql y SqlServer <br>✔ Tambien desarrollo paginas web basicas con Html, CSS y JavaScript <br>✔ Actualmente me encuentro aprendiendo desarrollo de aplicaciones moviles en Flutter
 </p>
 
 <h2>Languages and Tools:</h2>
