@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
  <p align="left">
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/composing-mail.png" alt="" height="30" width="40" /></a>
+<a href="mailto:oc6782343@gmail.com?subject=Developer&body=Hola%2C%20..." target="blank"><img align="center" src="https://img.icons8.com/fluency/512/composing-mail.png" alt="" height="30" width="40" /></a>
 </p>
 
 <!--<h3 align="left">Languages and Tools:</h3>
