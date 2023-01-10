@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscar-m-9&" alt="oscar-m-9" /></p>-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscar-m-9&show_icons=true&theme=tokyonight)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscar-m-9&show_icons=true&theme=tokyonight)
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oscar-m-9&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oscar-m-9&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-m-9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
