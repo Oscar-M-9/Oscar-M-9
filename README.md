@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="center">
  ✔ Desarrollador de aplicaciones de Escritorio en Java con gestor de base de datos MySql y SqlServer
- <br>✔ Tambien desarrollo paginas web basicas con Html, CSS y JavaScript
+ <br>✔ Desarrollador de páginas web basicas con Html, CSS y JavaScript
  <br>✔ Desarrollador de aplicaciones web con PHP y Laravel
- <br>✔ Actualmente me encuentro aprendiendo desarrollo de aplicaciones moviles en Flutter
+ <br>✔ Desarrollador de aplicaciones moviles en Flutter
 </p>
 
 <h2>Languages and Tools:</h2>
