@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! Mi nombre es Oscar y soy de Perú</h2>
+<h2 align="center">Hi 👋! Mi nombre es Oscar</h2>
 
 
 
